@@ -1,0 +1,8 @@
+a = input('\033[1;30;41mDigite algo: ')
+print('A classe do que você digitou é:', type(a))
+print('Só tem espaços:', a.isspace())
+print('É um número:', a.isnumeric())
+print('É uma letra ou palavra:', a.isalpha())
+print('O QUE VOCÊ DIGITOU TÁ EM CAPSLOCK:', a.isupper())
+print('tá tudo em minúsculo:', a.islower())
+print('A primeira letra tá em CAPS e o resto não:', a.istitle())

@@ -1,0 +1,5 @@
+co = float(input('Informe o cateto oposto do triângulo: '))
+ca = float(input('Informe o cateto adjacente desse mesmo triângulo: '))
+hq = (co**2) + (ca**2)
+h = hq**(1/2)
+print('O valor da hipotenusa é {:.2f}'.format(h))
