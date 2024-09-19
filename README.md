@@ -1,1 +1,1 @@
-São exercícios bem antigos, da época em que comecei a programar (2020).
+São exercícios dos cursos Python Mundo 1, Mundo 2, e Mundo 3 do Curso em Vídeo
